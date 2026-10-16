@@ -1,0 +1,29 @@
+# Unity tarafından oluşturulan klasörler
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Bb]uild/
+[Bb]uilds/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Kod editörleri ve oluşturulan proje dosyaları
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+Desktop.ini
